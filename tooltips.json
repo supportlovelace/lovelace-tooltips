@@ -1,11 +1,8 @@
 {
   "dashboard.total_post": "All posts created across all platforms connected to Lovelace (Discord, Steam, Reddit, etc.)",
   "dashboard.engagement_rate": "• Engagement Rate shows the percentage of your community that actively interacts with your content over a selected time period.\n\n",
-  "dashboard.new_sub": "• Number of new followers or members across all platforms connected to Lovelace.\n• By default, calculated over the last 30 days.
- (You can adjust the period with the calendar filter.)",
+  "dashboard.new_sub": "• Number of new followers or members across all platforms connected to Lovelace.\n• By default, calculated over the last 30 days. (You can adjust the period with the calendar filter.)",
   "dashboard.total_sub": "Total number of followers, subscribers, or members across all connected platforms (Discord, Steam, Reddit, etc.).",
   "dashboard.interactions": "• Any direct interaction from a user (like posting, commenting, reacting)\n• Replies to a post\n• Mentions related to your project\n\nThis measures the active participation of your community beyond just following or observing.",
-  "dashboard.wishlist": "• Schrödinger’s Players.
- \nThey might buy it... or never open Steam again.\n\n• You had them at \"Add to Library\"
- ...they're just waiting for payday."
+  "dashboard.wishlist": "• Schrödinger’s Players. \nThey might buy it... or never open Steam again.\n\n• You had them at \"Add to Library\" ...they're just waiting for payday."
 }
