@@ -8,7 +8,7 @@
     "text": "• Engagement Rate shows the percentage of your community that actively interacts with your content over a selected time period.\n\n"
   },
   "dashboard.card_new_sub": {
-    "title": "New Sub/follower",
+    "title": "New Subs / Followers",
     "text": "• Number of new followers or members across all platforms connected to Lovelace.\n• By default, calculated over the last 30 days. (You can adjust the period with the calendar filter.)"
   },
   "dashboard.card_total_sub": {
