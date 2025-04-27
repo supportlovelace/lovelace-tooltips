@@ -21,6 +21,34 @@
   },
   "dashboard.card_wishlist": {
     "title": "Wishlist steam",
-    "text": "• Schrödinger’s Players. \nThey might buy it... or never open Steam again.\n\n• You had them at \"Add to Library\" ...they're just waiting for payday."
+    "text": "• You had them at \"Add to Library\" ...they're just waiting for payday."
+  },
+  "dashboard.game_ranking": {
+    "title": "Game Ranking",
+    "text": "Overall game ranking based on the selected platform's reviews."
+  },
+  "dashboard.sentiment_overview": {
+    "title": "Sentiment Overview",
+    "text": "Sentiment score calculated from user reviews on the selected platform."
+  },
+  "dashboard.engagement_overview": {
+    "title": "Engagement Overview",
+    "text": "Graph of combined engagement data (likes and posts) over the selected period (default 30 days)."
+  },
+  "dashboard.interactions_per_day": {
+    "title": "Interactions per Day",
+    "text": "Daily interactions graph aggregated from all games over the selected period (default: 30 days)"
+  },
+  "dashboard.global_insights_score": {
+    "title": "Only on score",
+    "text": "Average relevance score based on posts mentioning this insight."
+  },
+  "insight.global_overview_feedback": {
+    "title": "Global Overview Feedback",
+    "text": "Summary of key strengths, improvement areas, and recommended actions based on player feedback."
+  },
+  "insight.global_overview_bugs": {
+    "title": "Global Overview Bugs",
+    "text": "List of main issues and negative feedback reported by players."
   }
 }
