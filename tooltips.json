@@ -3,15 +3,15 @@
     "title": "Total post",
     "text": "All posts created across all platforms connected to Lovelace (Discord, Steam, Reddit, etc.)"
   },
-  "dashboard.card_engagement_rate": {
+  "dashboard.card_engagement": {
     "title": "Engagement rate",
     "text": "• Engagement Rate shows the percentage of your community that actively interacts with your content over a selected time period.\n\n"
   },
-  "dashboard.card_new_sub": {
+  "dashboard.card_new_subs": {
     "title": "New Subs / Followers",
     "text": "• Number of new followers or members across all platforms connected to Lovelace.\n• By default, calculated over the last 30 days. (You can adjust the period with the calendar filter.)"
   },
-  "dashboard.card_total_sub": {
+  "dashboard.card_total_subs": {
     "title": "Total Subs / Followers",
     "text": "Total number of followers, subscribers, or members across all connected platforms (Discord, Steam, Reddit, etc.)."
   },
