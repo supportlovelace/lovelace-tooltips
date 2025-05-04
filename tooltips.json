@@ -3,7 +3,7 @@
     "title": "Total post",
     "text": "All posts created across all platforms connected to Lovelace (Discord, Steam, Reddit, etc.)"
   },
-  "dashboard.card_engagement_rate": {
+  "dashboard.card_engagement": {
     "title": "Engagement rate",
     "text": "• Engagement Rate shows the percentage of your community that actively interacts with your content over a selected time period. \n(Total interaction/total sub) x 100 "
   },
